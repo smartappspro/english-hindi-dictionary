@@ -1,11 +1,5 @@
-# english-hindi-dictionary
-A dictionary app for Android
+# English to Hindi Dictionary with the offline feature.
 
-
-
-# Sample app is available on PlayStore:
-
-English to Hindi Dictionary with the offline feature.
 Download this largest Hindi dictionary with over 1 lakh of word meaning.
 This Hindi Dictionary has a favorite word marking to get the useful word immediately.
 
@@ -28,8 +22,11 @@ Features:
 5. Multiple Games
 6. Scoreboard for your knowledge level
 7. Listen to Word
-8. Know Word meaning type like Noun, Pronoun, Verb, Adverb, Adjective etc.
+8. Know Word meaning types like Noun, Pronoun, Verb, Adverb, Adjective etc.
 9. View all words matching with a search keyword
 10. Settings for control Words of day and timing for notification
 
-[English Hindi Dictionary](https://play.google.com/store/apps/details?id=com.hindi.dictionary)
+Download from Playstore
+
+https://play.google.com/store/apps/details?id=com.hindi.dictionary
+
